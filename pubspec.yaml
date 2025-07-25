@@ -39,3 +39,7 @@ flutter:
         pluginClass: FaroPlugin
       ios:
         pluginClass: FaroPlugin
+        sharedDarwinSource: true
+      macos:
+        pluginClass: FaroPlugin
+        sharedDarwinSource: true
